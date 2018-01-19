@@ -1,12 +1,12 @@
-# angular-oauth2-oidc-pf
+# angular-pingfederate-oauth2-oidc
 
 ## IMPORTANT
 
-This isn't a attempt to hijack the library. Please, all credits are deserved to [@manfred.steyer](https://github.com/manfredsteyer).
+This isn't an attempt to hijack the library. Please, all credits are deserved to [@manfred.steyer](https://github.com/manfredsteyer).
 
-The library was forked for introduce temporarily support to PingFederate implementation of OpenID. A [pull request](https://github.com/manfredsteyer/angular-oauth2-oidc/pull/215) was created with the changes. Due to urgency to merge these changes to use, a separated repository was created. Once it's merged, this library should be archived.
+The library was forked for introducing temporarily support to PingFederate implementation of OpenID. A [pull request](https://github.com/manfredsteyer/angular-oauth2-oidc/pull/215) was created with the changes. Due to the urgency to merge these changes to use, a separated repository was created. Once it's merged, this library should be archived.
 
-All issues would be recommended to be submitted to original library.
+All issues would be recommended to be submitted to the original library.
 
 ___
 

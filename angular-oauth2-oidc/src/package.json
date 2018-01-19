@@ -1,9 +1,9 @@
 {
-  "name": "angular-oauth2-oidc-pf",
+  "name": "angular-pingfederate-oauth2-oidc",
   "version": "3.1.5",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexndreazevedo/angular-oauth2-oidc-pf"
+    "url": "https://github.com/alexndreazevedo/angular-pingfederate-oauth2-oidc"
   },
   "author": {
     "name": "ManfredSteyer",
@@ -23,10 +23,10 @@
   "bugs": {
     "url": "https://github.com/manfredsteyer/angular-oauth2-oidc/issues"
   },
-  "main": "angular-oauth2-oidc.umd.js",
-  "module": "angular-oauth2-oidc.js",
-  "jsnext:main": "angular-oauth2-oidc.js",
-  "typings": "angular-oauth2-oidc.d.ts",
+  "main": "angular-pingfederate-oauth2-oidc.umd.js",
+  "module": "angular-pingfederate-oauth2-oidc.js",
+  "jsnext:main": "angular-pingfederate-oauth2-oidc.js",
+  "typings": "angular-pingfederate-oauth2-oidc.d.ts",
   "peerDependencies": {
     "@angular/core": ">= 4.3.0 < 6",
     "@angular/common": ">= 4.3.0 < 6",
