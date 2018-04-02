@@ -1,6 +1,16 @@
-# angular-oauth2-oidc
+# angular-pingfederate-oauth2-oidc
 
-Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
+## IMPORTANT
+
+This isn't an attempt to hijack the library. Please, all credits are deserved to [@manfred.steyer](https://github.com/manfredsteyer).
+
+The library was forked for introducing temporarily support to PingFederate implementation of OpenID. A [pull request](https://github.com/manfredsteyer/angular-oauth2-oidc/pull/215) was created with the changes. Due to the urgency to merge these changes to use, a separated repository was created. Once it's merged, this library should be archived.
+
+All issues would be recommended to be submitted to the original library.
+
+___
+
+Support for OAuth 2, OpenId Connect (OIDC) and PingFederate in Angular.
 
 ![OIDC Certified Logo](https://raw.githubusercontent.com/manfredsteyer/angular-oauth2-oidc/master/oidc.png)
 
